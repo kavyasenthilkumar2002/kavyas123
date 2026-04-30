@@ -19,7 +19,7 @@ Result-oriented Quality Engineer with hands-on experience in automation and manu
 * API Testing: Postman
 * Database: SQL
 * Testing Types: Manual Testing, Functional Testing, Regression Testing
-* Frameworks: Page Object Model (POM), Hybrid Framework
+* Frameworks: Page Object Model (POM)
 * Tools & Platforms: GitHub
 
 ---
