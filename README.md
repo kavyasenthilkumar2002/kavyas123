@@ -58,3 +58,4 @@ Result-oriented Quality Engineer with hands-on experience in automation and manu
 
 LinkedIn: https://www.linkedin.com/in/kavyaa2002/
 Email: skavyasenthil2002@gmail.com
+Portfolio: https://kavya-softwaretester.netlify.app/
